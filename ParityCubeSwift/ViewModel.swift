@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+//Task2
 class ViewModel: NSObject {
     @IBOutlet var dealsClient: DealsClient!
     var deals : [NSDictionary]?
