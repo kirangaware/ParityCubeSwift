@@ -8,6 +8,7 @@
 
 import UIKit
 import Foundation
+//Pin task
 class DealsClient: NSObject {
 
     func fetchDeals(completion:@escaping (_ deals: [NSDictionary])-> ()) {
